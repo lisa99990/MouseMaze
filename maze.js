@@ -1,5 +1,6 @@
-
+"use strict";
 function onReady() {
+
     var lose = false;
 
     $('div#start').click(function () {
